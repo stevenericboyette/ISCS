@@ -12,9 +12,11 @@ The game runs on at least Windows Vista/7/8.1/10/11.
 
 I have managed to get the source to compile in Visual Studio 2022 and I would recommend you use the same version or a newer version to open the Visual Studio solution file.
 
+
 An error you might encounter during compilation is:
 
 'dxerr.h': No such file or directory
+
 
 This is telling you to download:
 
