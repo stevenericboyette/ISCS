@@ -1,7 +1,7 @@
 # ISCS
 Icarus Starship Command Simulator
 
-Thank you for downloading the Icarus Starship Command Simulator source code which is provided under GNU GPL-3.0-or-later.
+This is the source for Icarus Starship Command Simulator which is provided under GNU GPL-3.0-or-later.
 
 Icarus Starship Command Simulator is based on the Doom 3 source code which was released under GNU GPL-3.0-or-later.
 
