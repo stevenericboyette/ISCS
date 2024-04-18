@@ -14,12 +14,10 @@ I have managed to get the source to compile in Visual Studio 2022 and I would re
 
 
 An error you might encounter during compilation is:
-
 'dxerr.h': No such file or directory
 
 
 This is telling you to download:
-
 Microsoft DirectX SDK (June 2010)
 
 You should continue to be able to download and install this old SDK from Microsoft for the foreseeable future (although they move it around every once in a while so just google it).
